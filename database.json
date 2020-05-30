@@ -374,6 +374,18 @@
             ],
             "title": "Christine Dodrill",
             "website": "https://christine.website/blog"
+        },
+        {
+            "author": "Brajeshwar Oinam",
+            "description": "Technology, Entrepreneurship, Startups, Design",
+            "tags": [
+                "design",
+                "technology",
+                "entrepreneurship",
+                "startups"
+            ],
+            "title": "Brajeshwar Oinam",
+            "website": "https://brajeshwar.com"
         }
     ]
 }
